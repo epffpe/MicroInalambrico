@@ -1,0 +1,19 @@
+Added Component: Designator=IO1(MicroIO3x1)
+Added Component: Designator=MK1(PIN2)
+Added Component: Designator=R1(proto-resistor)
+Added Pin To Net: NetName=NetIO1_0 Pin=IO1-0
+Added Pin To Net: NetName=NetIO1_0 Pin=R1-1
+Added Pin To Net: NetName=NetIO1_0 Pin=R1-1
+Added Pin To Net: NetName=NetIO1_0 Pin=R1-1
+Added Net: Name=NetIO1_0
+Added Pin To Net: NetName=NetIO1_1 Pin=IO1-1
+Added Pin To Net: NetName=NetIO1_1 Pin=MK1-1
+Added Pin To Net: NetName=NetIO1_1 Pin=R1-2
+Added Pin To Net: NetName=NetIO1_1 Pin=R1-2
+Added Pin To Net: NetName=NetIO1_1 Pin=R1-2
+Added Net: Name=NetIO1_1
+Added Pin To Net: NetName=NetIO1_2 Pin=IO1-2
+Added Pin To Net: NetName=NetIO1_2 Pin=MK1-2
+Added Net: Name=NetIO1_2
+Added Class: Name=MicroFM
+Added Room: Name=MicroFM

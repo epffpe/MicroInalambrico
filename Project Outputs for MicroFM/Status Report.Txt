@@ -1,0 +1,6 @@
+   Printed Document[Micro2.PcbDoc]
+
+Files Generated   : 0
+Documents Printed : 1
+
+Finished Output Generation At 23:42:48 On 26/12/2008
